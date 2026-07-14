@@ -104,10 +104,9 @@ To reset the demo data, stop the server and delete `server/data/`.
 
 ## Screenshots
 
-<!-- screenshot: board view -->
-<!-- screenshot: dragging a card between columns -->
-<!-- screenshot: card detail modal -->
-<!-- screenshot: dark mode -->
+![Board dark](docs/screenshots/board-dark.png)
+
+![Board light](docs/screenshots/board-light.png)
 
 ## Future work
 
